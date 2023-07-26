@@ -1,7 +1,7 @@
 # Operating-Systems-Programs
 Popular OS algorithms, implemented using JAVA.
 
-**SCHEDULING ALGORITHMS: 
+**SCHEDULING ALGORITHMS:** 
 1. First-come, First-Served(FCFS)
 2. Shortest-Job-Next(SJN)
 
